@@ -1,4 +1,4 @@
-# Este projeto foi desenvolvido por Diego Careno Rodrigues e Matheus Henrique Garcia Queiroz.
+# Projeto desenvolvido por Diego Careno Rodrigues e Matheus Henrique Garcia Queiroz.
 
 # 💰 Sistema de Gestão Financeira Pessoal
 
